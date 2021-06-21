@@ -1,0 +1,9 @@
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Application.deps.json
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Application.dll
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Application.pdb
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/Debug/netcoreapp3.1/TeduCoreApp.Application.csprojAssemblyReference.cache
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/Debug/netcoreapp3.1/TeduCoreApp.Application.AssemblyInfoInputs.cache
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/Debug/netcoreapp3.1/TeduCoreApp.Application.AssemblyInfo.cs
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/Debug/netcoreapp3.1/TeduCoreApp.Application.csproj.CoreCompileInputs.cache
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/Debug/netcoreapp3.1/TeduCoreApp.Application.dll
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/Debug/netcoreapp3.1/TeduCoreApp.Application.pdb

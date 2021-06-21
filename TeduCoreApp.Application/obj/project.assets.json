@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TeduCoreApp.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TeduCoreApp.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeduCoreApp.Data.dll": {}
+        }
+      },
+      "TeduCoreApp.Data.EF/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TeduCoreApp.Data.EF.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeduCoreApp.Data.EF.dll": {}
+        }
+      },
+      "TeduCoreApp.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TeduCoreApp.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeduCoreApp.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeduCoreApp.Data/1.0.0": {
+      "type": "project",
+      "path": "../TeduCoreApp.Data/TeduCoreApp.Data.csproj",
+      "msbuildProject": "../TeduCoreApp.Data/TeduCoreApp.Data.csproj"
+    },
+    "TeduCoreApp.Data.EF/1.0.0": {
+      "type": "project",
+      "path": "../TeduCoreApp.Data.EF/TeduCoreApp.Data.EF.csproj",
+      "msbuildProject": "../TeduCoreApp.Data.EF/TeduCoreApp.Data.EF.csproj"
+    },
+    "TeduCoreApp.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../TeduCoreApp.Utilities/TeduCoreApp.Utilities.csproj",
+      "msbuildProject": "../TeduCoreApp.Utilities/TeduCoreApp.Utilities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TeduCoreApp.Data >= 1.0.0",
+      "TeduCoreApp.Data.EF >= 1.0.0",
+      "TeduCoreApp.Utilities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/duynguyen/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/TeduCoreApp.Application.csproj",
+      "projectName": "TeduCoreApp.Application",
+      "projectPath": "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/TeduCoreApp.Application.csproj",
+      "packagesPath": "/Users/duynguyen/.nuget/packages/",
+      "outputPath": "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/duynguyen/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data.EF/TeduCoreApp.Data.EF.csproj": {
+              "projectPath": "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data.EF/TeduCoreApp.Data.EF.csproj"
+            },
+            "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data/TeduCoreApp.Data.csproj": {
+              "projectPath": "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data/TeduCoreApp.Data.csproj"
+            },
+            "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Utilities/TeduCoreApp.Utilities.csproj": {
+              "projectPath": "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Utilities/TeduCoreApp.Utilities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
