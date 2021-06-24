@@ -139,7 +139,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Infrastructure/TeduCoreApp.Infrastructure.csproj": {
+                "projectPath": "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Infrastructure/TeduCoreApp.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -151,6 +155,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -7,3 +7,12 @@
 /Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/Debug/netcoreapp3.1/TeduCoreApp.Application.csproj.CoreCompileInputs.cache
 /Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/Debug/netcoreapp3.1/TeduCoreApp.Application.dll
 /Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/Debug/netcoreapp3.1/TeduCoreApp.Application.pdb
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Data.dll
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Data.EF.dll
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Infrastructure.dll
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Utilities.dll
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Data.EF.pdb
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Data.pdb
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Utilities.pdb
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/bin/Debug/netcoreapp3.1/TeduCoreApp.Infrastructure.pdb
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Application/obj/Debug/netcoreapp3.1/TeduCoreApp.Application.csproj.CopyComplete

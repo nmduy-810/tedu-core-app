@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "H/+SiQTlE4EXBaeyVdP+7VCrQp+9fP9XfgqAeKOAnwmpWW+XHIfTIiHC5wfcdbx6Eaal4T9d3AovwwEfSnOm7w==",
+  "dgSpecHash": "mYigf2VGYje276xHsPu5OTfHqg7cy6V7mTq55QVZtHo13AylO375spQqX7ycYI05odVogDJWQuxXRG4w2l+WNw==",
   "success": true,
   "projectFilePath": "/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data/TeduCoreApp.Data.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/duynguyen/.nuget/packages/microsoft.aspnetcore.cryptography.internal/3.1.13/microsoft.aspnetcore.cryptography.internal.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/3.1.13/microsoft.aspnetcore.cryptography.keyderivation.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.13/microsoft.extensions.caching.abstractions.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.configuration/3.1.13/microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.13/microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.configuration.binder/3.1.13/microsoft.extensions.configuration.binder.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.13/microsoft.extensions.dependencyinjection.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.13/microsoft.extensions.dependencyinjection.abstractions.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.identity.core/3.1.13/microsoft.extensions.identity.core.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.identity.stores/3.1.13/microsoft.extensions.identity.stores.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.logging/3.1.13/microsoft.extensions.logging.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.13/microsoft.extensions.logging.abstractions.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.options/3.1.13/microsoft.extensions.options.3.1.13.nupkg.sha512",
+    "/Users/duynguyen/.nuget/packages/microsoft.extensions.primitives/3.1.13/microsoft.extensions.primitives.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

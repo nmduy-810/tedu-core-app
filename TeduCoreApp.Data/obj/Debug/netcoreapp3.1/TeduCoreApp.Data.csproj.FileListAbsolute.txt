@@ -7,3 +7,6 @@
 /Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data/obj/Debug/netcoreapp3.1/TeduCoreApp.Data.csproj.CoreCompileInputs.cache
 /Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data/obj/Debug/netcoreapp3.1/TeduCoreApp.Data.dll
 /Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data/obj/Debug/netcoreapp3.1/TeduCoreApp.Data.pdb
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data/bin/Debug/netcoreapp3.1/TeduCoreApp.Infrastructure.dll
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data/bin/Debug/netcoreapp3.1/TeduCoreApp.Infrastructure.pdb
+/Users/duynguyen/Documents/Development/NETCore/TeduCoreApp/TeduCoreApp.Data/obj/Debug/netcoreapp3.1/TeduCoreApp.Data.csproj.CopyComplete
